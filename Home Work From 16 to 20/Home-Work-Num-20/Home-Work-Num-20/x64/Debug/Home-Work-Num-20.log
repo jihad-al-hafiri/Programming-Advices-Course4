@@ -1,0 +1,4 @@
+﻿  Home-Work-Num-20.cpp
+F:\HwomeWorks to C++\Home-Work-Num-20\Home-Work-Num-20\Home-Work-Num-20.cpp(17,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\HwomeWorks to C++\Home-Work-Num-20\Home-Work-Num-20\Home-Work-Num-20.cpp(18,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Home-Work-Num-20.vcxproj -> F:\HwomeWorks to C++\Home-Work-Num-20\x64\Debug\Home-Work-Num-20.exe
