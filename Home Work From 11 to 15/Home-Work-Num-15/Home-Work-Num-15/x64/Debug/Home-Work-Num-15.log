@@ -1,0 +1,4 @@
+﻿  Home-Work-Num-15.cpp
+F:\HwomeWorks to C++\Home-Work-Num-15\Home-Work-Num-15\Home-Work-Num-15.cpp(17,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+F:\HwomeWorks to C++\Home-Work-Num-15\Home-Work-Num-15\Home-Work-Num-15.cpp(28,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Home-Work-Num-15.vcxproj -> F:\HwomeWorks to C++\Home-Work-Num-15\x64\Debug\Home-Work-Num-15.exe
