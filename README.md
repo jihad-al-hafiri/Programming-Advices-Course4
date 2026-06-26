@@ -1,28 +1,32 @@
-# Algorithms & Problem Solving Level 1 - Course 4 🚀
+# Hello, I'm Jihad Al-Hafiri! 🚀
 
-أهلاً بك في مستودعي البرمجي الخاص بتطبيقات وحلول **الكورس الرابع (خوارزميات وحل المشكلات - المستوى الأول)** ضمن مسار التأسيس البرمجي مع الدكتور **محمد أبو هدهود** (Programming Advices).
-
-## 👨‍💻 عن المشروع
-يحتوي هذا المستودع على حلول التحديات والواجبات المنزلية (Home Works) الممتدة من الدرس 1 إلى الدرس 50، وتم تنظيمها بشكل خماسي دقيق لتسهيل المراجعة والمتابعة.
-
-## 📁 هيكلة وتنظيم الكورس (50 درساً)
-
-| المجلد | محتوى الدروس | الحالة |
-| :--- | :--- | :---: |
-| 📦 `Home Work From 01 to 05` | تطبيقات وحلول الدروس من 1 إلى 5 |  Done |
-| 📦 `Home Work From 06 to 10` | تطبيقات وحلول الدروس من 6 إلى 10 |  Done |
-| 📦 `Home Work From 11 to 15` | تطبيقات وحلول الدروس من 11 إلى 15 |  Done |
-| 📦 `Home Work From 16 to 20` | تطبيقات وحلول الدروس من 16 إلى 20 |  Done |
-| 📦 `Home Work From 21 to 25` | تطبيقات وحلول الدروس من 21 إلى 25 |  Done |
-| 📦 `Home Work From 26 to 30` | تطبيقات وحلول الدروس من 26 إلى 30 |  Done |
-| 📦 `Home Work From 31 to 35` | تطبيقات وحلول الدروس من 31 إلى 35 |  Done |
-| 📦 `Home Work From 36 to 40` | تطبيقات وحلول الدروس من 36 إلى 40 |  Done |
-| 📦 `Home Work From 41 to 45` | تطبيقات وحلول الدروس من 41 إلى 45 |  Done |
-| 📦 `Home Work From 46 to 50` | تطبيقات وحلول الدروس من 46 إلى 50 |  Done |
-
-## 🛠️ الأدوات المستخدمة في الهاتف
-* **Termux**: لإدارة مستودع Git وسطر الأوامر.
-* **Codec++**: لكتابة وتحرير أكواد C++.
+> "Programming is the art of problem-solving and algorithmic thinking."
 
 ---
-🛡️ *تم إعداد هذا المستودع بكل فخر وتنظيم بواسطة المطور: **جهاد الحفيري (jihad-al-hafiri)***
+
+## 🧠 Philosophy & Methodology
+I am a passionate software student building a solid foundation, focusing on:
+* **Problem Solving**: Mastering **"Divide and Conquer"** strategy for complex problems.
+* **Algorithmic Thinking**: Designing logical, structured, and optimized solutions.
+* **Core Foundations**: Understanding paradigms thoroughly using **C++** as a robust tool.
+
+---
+
+## 🎯 Current Milestone
+* **Algorithms & Problems**: Completed intensive course and solved 50 structured tasks.
+
+---
+
+## 📊 GitHub Statistics
+![Jihad's GitHub Stats](https://vercel.app)
+
+---
+
+## 🧠 المنهجية والفلسفة البرمجية
+أنا طالب شغوف ببناء أساس برمجي صلب وعميق، وأركز بشكل أساسي على:
+* **حل المشكلات**: إتقان استراتيجية **"فرق تسد"** لتفكيك المعضلات المعقدة لأجزاء بسيطة.
+* **التفكير الخوارزمي**: بناء حلول منطقية، منظمة، ومحسنة للوصول لأفضل كفاءة ممكنة.
+* **التأسيس العميق**: فهم المنطق البرمجي واستخدامه كأداة أساسية في التطبيق العملي.
+
+---
+💎 *"Step by step, building an unbreakable programming foundation."*
